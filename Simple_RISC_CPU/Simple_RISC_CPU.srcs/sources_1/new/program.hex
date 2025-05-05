@@ -1,0 +1,8 @@
+10  // Địa chỉ 0: LOAD 5 (Tải giá trị từ địa chỉ 5 vào Accumulator)
+41  // Địa chỉ 1: ADD 6 (Cộng giá trị từ địa chỉ 6 vào Accumulator)
+52  // Địa chỉ 2: SUB 7 (Trừ giá trị từ địa chỉ 7 khỏi Accumulator)
+80  // Địa chỉ 3: HLT (Dừng chương trình)
+00  // Địa chỉ 4: Không sử dụng
+0A  // Địa chỉ 5: Giá trị 10 (Giá trị để tải)
+05  // Địa chỉ 6: Giá trị 5 (Giá trị để cộng)
+03  // Địa chỉ 7: Giá trị 3 (Giá trị để trừ)

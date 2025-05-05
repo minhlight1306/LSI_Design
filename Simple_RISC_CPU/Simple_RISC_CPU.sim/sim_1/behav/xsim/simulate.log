@@ -1,0 +1,3 @@
+Time resolution is 1 ps
+Time=0 | data_out=00
+$finish called at time : 520 ns : File "D:/vivada_project/lab/Simple_RISC_CPU/Simple_RISC_CPU.srcs/sim_1/new/cpu_tb.v" Line 32
